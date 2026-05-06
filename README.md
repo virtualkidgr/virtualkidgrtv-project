@@ -1,6 +1,7 @@
 Ένα README για το VIRTUALKIDGRTV-PROJECT και στα Ελληνικά και στα Αγγλικά/ One README about VIRTUALKIDGRTV-PROJECT in Greek and in English.
 
 Για το "greekiptvplaylist.m3u". (Στα Ελληνικά)
+
 🇬🇷 Greek IPTV Playlist
 
 Μία ελληνική IPTV συλλογή με τηλεοπτικά κανάλια από όλη την Ελλάδα, οργανωμένα ανά περιοχή και κατηγορία.
@@ -80,9 +81,9 @@ Televizo
 
 🔗 Playlist
 
-https://raw.githubusercontent.com/virtualkidgr/greektv-project/main/playlist.m3u
-👤 Project
+https://raw.githubusercontent.com/virtualkidgr/virtualkidgrtv-project/main/greekiptvplaylist.m3u
 
+👤 Project
 
 Δημιουργία και οργάνωση:
 
@@ -127,6 +128,7 @@ Religious channels
 Regional IPTV streams from across Greece
 
 📺 Playlist Categories
+
 NATIONAL CHANNELS
 
 CENTRAL GREECE
@@ -186,7 +188,7 @@ Televizo
 
 🔗 Playlist
 
-https://raw.githubusercontent.com/virtualkidgr/greektv-project/main/playlist.m3u
+https://raw.githubusercontent.com/virtualkidgr/virtualkidgrtv-project/main/greekiptvplaylist.m3u
 
 👤 Project
 
@@ -296,7 +298,7 @@ Televizo
 
 🔗 Playlist
 
-https://raw.githubusercontent.com/virtualkidgr/russian-iptv/main/playlist.m3u
+https://raw.githubusercontent.com/virtualkidgr/virtualkidgrtv-project/main/russianiptvplaylist.m3u
 
 👤 Project
 
@@ -407,7 +409,9 @@ Televizo
 
 🔗 Playlist
 
-https://raw.githubusercontent.com/virtualkidgr/russian-iptv/main/playlist.m3u
+https://raw.githubusercontent.com/virtualkidgr/virtualkidgrtv-project/main/russianiptvplaylist.m3u
+
+
 
 👤 Project
 
