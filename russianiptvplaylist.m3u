@@ -1,1 +1,19 @@
+#EXTM3U
 
+#EXTGRP:ΒΑΣΙΚΑ ΚΑΝΑΛΙΑ
+
+#EXTINF:-1 tvg-name="Первый канал HD" tvg-logo="https://iptvx.one/picons/pervy.png" group-title="ΒΑΣΙΚΑ ΚΑΝΑΛΙΑ", Первый канал HD
+https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+
+#EXTINF:-1 tvg-name="Россия 1 HD" tvg-logo="https://iptvx.one/picons/rossia1.png" group-title="ΒΑΣΙΚΑ ΚΑΝΑΛΙΑ", Россия 1 HD
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
+
+#EXTINF:-1 tvg-name="Звезда HD" tvg-logo="https://iptvx.one/picons/zvezda.png" group-title="ΒΑΣΙΚΑ ΚΑΝΑΛΙΑ", Звезда HD
+http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+
+#EXTINF:-1 tvg-name="НТВ HD" tvg-logo="https://iptvx.one/picons/ntv.png" group-title="ΒΑΣΙΚΑ ΚΑΝΑΛΙΑ", НТВ HD
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://cdn2.ntv.ru/ntv0_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-name="СТС" tvg-logo="https://iptvx.one/picons/sts.png" group-title="ΒΑΣΙΚΑ ΚΑΝΑΛΙΑ", СТС
+https://cdn4.skygo.mn/live/disk1/STS/HLSv3-FTA/STS.m3u8
