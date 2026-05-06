@@ -12,7 +12,6 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 
 #EXTINF:-1 tvg-name="НТВ HD" tvg-logo="https://iptvx.one/picons/ntv.png" group-title="ΒΑΣΙΚΑ ΚΑΝΑΛΙΑ", НТВ HD
-#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://cdn2.ntv.ru/ntv0_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-name="CTC" group-title="ΒΑΣΙΚΑ ΚΑΝΑΛΙΑ" tvg-logo="https://naggdd.github.io/iptv/logos/sts.png", СТС
