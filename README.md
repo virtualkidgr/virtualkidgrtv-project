@@ -1,3 +1,5 @@
+<img width="1920" height="819" alt="a34c916e-9dc9-4c7c-babd-931629e40681" src="https://github.com/user-attachments/assets/9499c1e0-ef0c-45c8-b8ff-74458a441d6a" />
+
 "VIRTUALKIDGRTV-PROJECT"
 
 Ένα REAME για το VIRTUALKIDGRTV-PROJECT στα Ελληνικά και στα Αγγλικά/
