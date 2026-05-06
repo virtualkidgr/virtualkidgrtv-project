@@ -1,4 +1,4 @@
-🇬🇷🇷🇺 VIRTUALKIDGRTV-PROJECT
+IRTUALKIDGRTV-PROJECT
 
 Ένα REAME για το VIRTUALKIDGRTV-PROJECT στα Ελληνικά και στα Αγγλικά.
 
