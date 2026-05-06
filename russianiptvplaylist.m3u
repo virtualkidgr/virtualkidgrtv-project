@@ -17,11 +17,6 @@ http://cdn2.ntv.ru/ntv0_hd/playlist.m3u8
 #EXTINF:-1 tvg-name="CTC" group-title="ΒΑΣΙΚΑ ΚΑΝΑΛΙΑ" tvg-logo="https://naggdd.github.io/iptv/logos/sts.png", СТС
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
 
-# Russian Regional IPTV Blocks — Clean Copy-Paste List
-
-Δεν πειράζουμε καθόλου τα ήδη έτοιμα **ΒΑΣΙΚΑ ΚΑΝΑΛΙΑ**. Τα παρακάτω είναι μόνο τα regional blocks, οργανωμένα στις περιοχές που όρισες.
-
-```m3u
 #EXTGRP:ΡΩΣΙΑ - ΜΟΣΧΑ
 
 #EXTINF:-1 tvg-name="360" group-title="ΡΩΣΙΑ - ΜΟΣΧΑ", 360
