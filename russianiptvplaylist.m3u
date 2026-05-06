@@ -15,5 +15,5 @@ http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
 http://cdn2.ntv.ru/ntv0_hd/playlist.m3u8
 
-#EXTINF:-1 tvg-id="sts" tvg-name="СТС" tvg-logo="https://iptvx.one/picons/sts.png" group-title="ΒΑΣΙΚΑ ΚΑΝΑΛΙΑ", СТС
-https://cdn4.skygo.mn/live/disk1/STS/HLSv3-FTA/STS.m3u8
+#EXTINF:-1 tvg-name="CTC" group-title="ΒΑΣΙΚΑ ΚΑΝΑΛΙΑ" tvg-logo="https://naggdd.github.io/iptv/logos/sts.png", СТС
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
