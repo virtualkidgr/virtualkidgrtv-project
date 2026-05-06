@@ -1,7 +1,6 @@
-IRTUALKIDGRTV-PROJECT
+"VIRTUALKIDGRTV-PROJECT"
 
 Ένα REAME για το VIRTUALKIDGRTV-PROJECT στα Ελληνικά και στα Αγγλικά.
-
 One README about VIRTUALKIDGRTV-PROJECT in Greek and in English.
 ---
 🇬🇷 Greek IPTV Playlist
