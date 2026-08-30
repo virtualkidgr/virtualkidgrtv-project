@@ -3,19 +3,19 @@
 #EXTGRP:ΒΑΣΙΚΑ ΚΑΝΑΛΙΑ - BASIC CHANNELS
 
 #EXTINF:-1 tvg-name="Первый канал HD" tvg-logo="https://iptvx.one/picons/pervy.png" group-title="ΒΑΣΙΚΑ ΚΑΝΑΛΙΑ - BASIC CHANNELS", Первый канал HD
-https://stream8.cinerama.uz/1214/tracks-v1a1/mono.m3u8
+https://cdn9.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 
 #EXTINF:-1 tvg-name="Россия 1 HD" tvg-logo="https://iptvx.one/picons/rossia1.png" group-title="ΒΑΣΙΚΑ ΚΑΝΑΛΙΑ - BASIC CHANNELS", Россия 1 HD
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
 
 #EXTINF:-1 tvg-name="Звезда HD" tvg-logo="https://iptvx.one/picons/zvezda.png" group-title="ΒΑΣΙΚΑ ΚΑΝΑΛΙΑ - BASIC CHANNELS", Звезда HD
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 
 #EXTINF:-1 tvg-name="НТВ HD" tvg-logo="https://iptvx.one/picons/ntv.png" group-title="ΒΑΣΙΚΑ ΚΑΝΑΛΙΑ - BASIC CHANNELS", НТВ HD
-https://cdn.ntv.ru/ntv0_hd/index.m3u8
+https://cdn.ntv.ru/ntv0/playlist.m3u8
 
 #EXTINF:-1 tvg-name="CTC" group-title="ΒΑΣΙΚΑ ΚΑΝΑΛΙΑ - BASIC CHANNELS" tvg-logo="https://naggdd.github.io/iptv/logos/sts.png", СТС
-http://stream.mcquack.net/138/index.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
 
 #EXTGRP:ΡΩΣΙΑ - ΜΟΣΧΑ - RUSSIA - MOSCOW
 
@@ -37,9 +37,6 @@ https://stream.smotrim.ru/hls2/moscow_24/playlist_3.m3u8
 #EXTINF:-1 tvg-name="Москва Доверие" tvg-logo="http://only4.tv/ch/417.png" group-title="ΡΩΣΙΑ - ΜΟΣΧΑ - RUSSIA - MOSCOW", Москва Доверие
 http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
 
-#EXTINF:-1 tvg-name="Московское образование (Мособр)" group-title="ΡΩΣΙΑ - ΜΟΣΧΑ - RUSSIA - MOSCOW", Московское образование (Мособр)
-https://retrtb.educom.ru/mosobrtv/tv2/index.m3u8
-
 #EXTINF:-1 tvg-name="РТВ (Раменск)" group-title="ΡΩΣΙΑ - ΜΟΣΧΑ - RUSSIA - MOSCOW", РТВ (Раменск)
 https://e10-ll.facecast.net/rtv/0.m3u8
 
@@ -57,13 +54,13 @@ http://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_SPBREGIONALHD/variant.m3u8
 #EXTGRP:ΡΩΣΙΑ - ΚΕΝΤΡΙΚΗ ΠΕΡΙΦΕΡΕΙΑ - RUSSIA - CENTRAL REGION
 
 #EXTINF:-1 tvg-name="1 Tulsky" group-title="ΡΩΣΙΑ - ΚΕΝΤΡΙΚΗ ΠΕΡΙΦΕΡΕΙΑ - RUSSIA - CENTRAL REGION", 1 Tulsky
-https://live-tulatv.cdnvideo.ru/tulatv/smil:tulatv.smil/master.m3u8
+http://5.164.24.83/tula/1tv_hi/index.m3u8
 
 #EXTINF:-1 tvg-name="11 канал Экспресс (Пенза)" group-title="ΡΩΣΙΑ - ΚΕΝΤΡΙΚΗ ΠΕΡΙΦΕΡΕΙΑ - RUSSIA - CENTRAL REGION", 11 канал Экспресс (Пенза)
-http://rt-vlg-penza-htlive.cdn.ngenix.net/hls/CH_R03_NASHDOM/variant.m3u8
+https://rt-vlg-penza-htlive.cdn.ngenix.net/hls/CH_R03_NASHDOM/variant.m3u8
 
 #EXTINF:-1 tvg-name="12 канал (Череповец)" group-title="ΡΩΣΙΑ - ΚΕΝΤΡΙΚΗ ΠΕΡΙΦΕΡΕΙΑ - RUSSIA - CENTRAL REGION", 12 канал (Череповец)
-http://rt-nw-vol-htlive.cdn.ngenix.net/hls/CH_R01_12CHANNEL/variant.m3u8
+https://rt-nw-vol-htlive.cdn.ngenix.net/hls/CH_R01_12CHANNEL/variant.m3u8
 
 #EXTINF:-1 tvg-name="1ы1" group-title="ΡΩΣΙΑ - ΚΕΝΤΡΙΚΗ ΠΕΡΙΦΕΡΕΙΑ - RUSSIA - CENTRAL REGION", 1ы1
 https://tvcdn01.oktv.kz/tv/mtrk/playlist.m3u8
@@ -75,16 +72,16 @@ https://edge-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/0.m3u8
 https://bl.rutube.ru/livestream/9b482361d6c845f7d70eafc98356d8bf/index.m3u8?s=92J55630qJZPz9iiIJZpVw&e=2076071194&scheme=https
 
 #EXTINF:-1 tvg-name="Барс (Иваново)" group-title="ΡΩΣΙΑ - ΚΕΝΤΡΙΚΗ ΠΕΡΙΦΕΡΕΙΑ - RUSSIA - CENTRAL REGION", Барс (Иваново)
-http://rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_IVAN_BARS/variant.m3u8
+https://rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R01_BARS/variant.m3u8
 
 #EXTINF:-1 tvg-name="Башкортостан 24" group-title="ΡΩΣΙΑ - ΚΕΝΤΡΙΚΗ ΠΕΡΙΦΕΡΕΙΑ - RUSSIA - CENTRAL REGION", Башкортостан 24
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/bashkortostan24-hd/index.m3u8
+https://s45177.cdn.ngenix.net/hls/CH_R02_BASHKORTOSTAN24/variant.m3u8
 
 #EXTINF:-1 tvg-name="Белгород 24" group-title="ΡΩΣΙΑ - ΚΕΝΤΡΙΚΗ ΠΕΡΙΦΕΡΕΙΑ - RUSSIA - CENTRAL REGION", Белгород 24
-https://belnovosti.cdn.easyhoster.ru:8443/stream.m3u8
+https://rt-ct-belg-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_BELG_BELGOROD24/variant.m3u8
 
 #EXTINF:-1 tvg-name="Брянская Губерния (Брянск)" group-title="ΡΩΣΙΑ - ΚΕΝΤΡΙΚΗ ΠΕΡΙΦΕΡΕΙΑ - RUSSIA - CENTRAL REGION", Брянская Губерния (Брянск)
-http://rt-ct-bryansk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_BRYANSK_BRGRUBER/variant.m3u8
+https://online.guberniya.tv/hls/gub_3500K/Guberniya_HD_3500K.m3u8
 
 #EXTINF:-1 tvg-name="Вариант (Владимир)" group-title="ΡΩΣΙΑ - ΚΕΝΤΡΙΚΗ ΠΕΡΙΦΕΡΕΙΑ - RUSSIA - CENTRAL REGION", Вариант (Владимир)
 http://rt-ct-vlad-htlive.cdn.ngenix.net/hls/CH_R01_VARIANT_V/variant.m3u8
@@ -102,22 +99,22 @@ http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R04_VREMYAN/variant.m3u8
 http://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_ARGUS/variant.m3u8
 
 #EXTINF:-1 tvg-name="Город (Рязань)" group-title="ΡΩΣΙΑ - ΚΕΝΤΡΙΚΗ ΠΕΡΙΦΕΡΕΙΑ - RUSSIA - CENTRAL REGION", Город (Рязань)
-http://rt-ct-ryaz-htlive.cdn.ngenix.net/hls/CH_R02_GOROD/variant.m3u8
+https://rt-ct-ryaz-htlive.cdn.ngenix.net/hls/CH_R02_GOROD/variant.m3u8
 
 #EXTINF:-1 tvg-name="Городской телеканал (Ярославль)" group-title="ΡΩΣΙΑ - ΚΕΝΤΡΙΚΗ ΠΕΡΙΦΕΡΕΙΑ - RUSSIA - CENTRAL REGION", Городской телеканал (Ярославль)
 http://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_YARL_GTREG/variant.m3u8
 
 #EXTINF:-1 tvg-name="Губерния (Самара)" tvg-logo="https://i.ibb.co/3TKDD4r/Skrinshot-02-02-2018-032101-200.jpg" group-title="ΡΩΣΙΑ - ΚΕΝΤΡΙΚΗ ΠΕΡΙΦΕΡΕΙΑ - RUSSIA - CENTRAL REGION", Губерния (Самара)
-http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
+https://s68149.cdn.ngenix.net/s68149-media-origin/lvs/tvgub/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="Губерния 33 (Владимир)" group-title="ΡΩΣΙΑ - ΚΕΝΤΡΙΚΗ ΠΕΡΙΦΕΡΕΙΑ - RUSSIA - CENTRAL REGION", Губерния 33 (Владимир)
 http://rt-ct-vlad-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_VLAD_GUBERNIA33/variant.m3u8
 
 #EXTINF:-1 tvg-name="Девятка (Киров)" tvg-logo="https://tvbesedka.com/Upload/2020/11/28/15/23/45/dd4a48f2-09c3-4285-8a25-67f9b740892d.jpg" group-title="ΡΩΣΙΑ - ΚΕΝΤΡΙΚΗ ΠΕΡΙΦΕΡΕΙΑ - RUSSIA - CENTRAL REGION", Девятка (Киров)
-http://rt-vlg-kirov-htlive.cdn.ngenix.net/hls/CH_R02_9TV/variant.m3u8
+https://rt-vlg-kirov-htlive.cdn.ngenix.net/hls/CH_R02_9TV/variant.m3u8
 
 #EXTINF:-1 tvg-name="Дзержинск" group-title="ΡΩΣΙΑ - ΚΕΝΤΡΙΚΗ ΠΕΡΙΦΕΡΕΙΑ - RUSSIA - CENTRAL REGION", Дзержинск
-http://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R01_DZERZHINSK/variant.m3u8
+https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R01_DZERZHINSK/variant.m3u8
 
 #EXTINF:-1 tvg-name="ДимГрад 24 (Ульяновск)" group-title="ΡΩΣΙΑ - ΚΕΝΤΡΙΚΗ ΠΕΡΙΦΕΡΕΙΑ - RUSSIA - CENTRAL REGION", ДимГрад 24 (Ульяновск)
 http://live-3.otcnet.ru/dimgrad/index.m3u8
@@ -126,13 +123,10 @@ http://live-3.otcnet.ru/dimgrad/index.m3u8
 https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8
 
 #EXTINF:-1 tvg-name="Ивановское общественное телевидение (Иваново)" group-title="ΡΩΣΙΑ - ΚΕΝΤΡΙΚΗ ΠΕΡΙΦΕΡΕΙΑ - RUSSIA - CENTRAL REGION", Ивановское общественное телевидение (Иваново)
-http://rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R02_OTT_CT_IVAN_IOT/variant.m3u8
+https://rt-ct-ivan-htlive.cdn.ngenix.net/hls/CH_R02_IOT/variant.m3u8
 
 #EXTINF:-1 tvg-name="Известия Воронеж" group-title="ΡΩΣΙΑ - ΚΕΝΤΡΙΚΗ ΠΕΡΙΦΕΡΕΙΑ - RUSSIA - CENTRAL REGION", Известия Воронеж
 http://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_IZVESTIYA/variant.m3u8
-
-#EXTINF:-1 tvg-name="Известия Приосколья" group-title="ΡΩΣΙΑ - ΚΕΝΤΡΙΚΗ ΠΕΡΙΦΕΡΕΙΑ - RUSSIA - CENTRAL REGION", Известия Приосколья
-https://tvbelgorod.ru:90/izvestiya/index.m3u8
 
 #EXTINF:-1 tvg-name="Истоки (Орёл)" tvg-logo="https://i.ibb.co/7RjjM52/7-J9-Xd-Q9-200x200.jpg" group-title="ΡΩΣΙΑ - ΚΕΝΤΡΙΚΗ ΠΕΡΙΦΕΡΕΙΑ - RUSSIA - CENTRAL REGION", Истоки (Орёл)
 http://rt-ct-orl-htlive.cdn.ngenix.net/hls/CH_R01_ISTOKI/variant.m3u8
@@ -174,7 +168,7 @@ http://rt-vlg-yola-htlive.cdn.ngenix.net/hls/CH_R03_METR/variant.m3u8
 http://85.234.33.63/stream/c11.m3u8
 
 #EXTINF:-1 tvg-name="Нижний новгород 24" group-title="ΡΩΣΙΑ - ΚΕΝΤΡΙΚΗ ΠΕΡΙΦΕΡΕΙΑ - RUSSIA - CENTRAL REGION", Нижний новгород 24
-http://vgtrkregion-reg.cdnvideo.ru/vgtrk/nigniynovgorod/nigniynovgorod24-hd/index.m3u8
+https://live-vestinn.cdnvideo.ru/vestinn/nn24-khl/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Ника (Калужская область)" group-title="ΡΩΣΙΑ - ΚΕΝΤΡΙΚΗ ΠΕΡΙΦΕΡΕΙΑ - RUSSIA - CENTRAL REGION", Ника (Калужская область)
 http://rt-ct-kaluga-htlive.cdn.ngenix.net/hls/CH_R01_NIKA/variant.m3u8
@@ -189,7 +183,7 @@ http://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_RADUZNYI/variant.m3u8
 http://rt-ct-tamb-htlive.cdn.ngenix.net/hls/CH_R03_OTT_CT_TAMB_NOVIY_VEK/variant.m3u8
 
 #EXTINF:-1 tvg-name="НТМ (Мордовия)" group-title="ΡΩΣΙΑ - ΚΕΝΤΡΙΚΗ ΠΕΡΙΦΕΡΕΙΑ - RUSSIA - CENTRAL REGION", НТМ (Мордовия)
-http://rt-vlg-srnk-htlive.cdn.ngenix.net/hls/CH_R01_NTM/variant.m3u8
+https://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="ОРТ Планета (Оренбург)" group-title="ΡΩΣΙΑ - ΚΕΝΤΡΙΚΗ ΠΕΡΙΦΕΡΕΙΑ - RUSSIA - CENTRAL REGION", ОРТ Планета (Оренбург)
 http://rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R03_ORTPLANET/variant.m3u8
@@ -213,7 +207,7 @@ http://rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R02_PRAVDASEVERA/variant.m3u8
 http://rt-vlg-ul-htlive.cdn.ngenix.net/hls/CH_R03_REP73/variant.m3u8
 
 #EXTINF:-1 tvg-name="Русь (Кострома)" tvg-logo="https://kostroma.news/wp-content/uploads/2018/01/OTRK-Rus-300x300.jpg" group-title="ΡΩΣΙΑ - ΚΕΝΤΡΙΚΗ ΠΕΡΙΦΕΡΕΙΑ - RUSSIA - CENTRAL REGION", Русь (Кострома)
-http://rt-ct-kostroma-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_KOSTROMA_RUS/variant.m3u8
+https://rt-ct-kostroma-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_KOSTROMA_RUS/variant.m3u8
 
 #EXTINF:-1 tvg-name="Р40 (Рыбинск)" tvg-logo="http://r40.ru/images/reklama/r40_logo.jpg" group-title="ΡΩΣΙΑ - ΚΕΝΤΡΙΚΗ ΠΕΡΙΦΕΡΕΙΑ - RUSSIA - CENTRAL REGION", Р40 (Рыбинск)
 http://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_RYBINSK40/variant.m3u8
@@ -222,19 +216,13 @@ http://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R01_RYBINSK40/variant.m3u8
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/samara/samara24-hd/index.m3u8
 
 #EXTINF:-1 tvg-name="Самара ГИС" group-title="ΡΩΣΙΑ - ΚΕΝΤΡΙΚΗ ΠΕΡΙΦΕΡΕΙΑ - RUSSIA - CENTRAL REGION", Самара ГИС
-http://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R02_SAMARAGIS/variant.m3u8
+https://tv.samaragis.ru/new/new/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="Саратов 24" group-title="ΡΩΣΙΑ - ΚΕΝΤΡΙΚΗ ΠΕΡΙΦΕΡΕΙΑ - RUSSIA - CENTRAL REGION", Саратов 24
-https://sc.id-tv.kz/Saratov24_34_35.m3u8
+http://109.248.11.19:8081/web/c24/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Саратов 24 (Саратов)" group-title="ΡΩΣΙΑ - ΚΕΝΤΡΙΚΗ ΠΕΡΙΦΕΡΕΙΑ - RUSSIA - CENTRAL REGION", Саратов 24 (Саратов)
-http://rt-vlg-saratov-htlive.cdn.ngenix.net/hls/CH_R01_SARATOV24/variant.m3u8
-
-#EXTINF:-1 tvg-name="Сейм (Курск)" group-title="ΡΩΣΙΑ - ΚΕΝΤΡΙΚΗ ΠΕΡΙΦΕΡΕΙΑ - RUSSIA - CENTRAL REGION", Сейм (Курск)
-http://rt-ct-kursk-htlive.cdn.ngenix.net/hls/CH_R01_SEIM/variant.m3u8
-
-#EXTINF:-1 tvg-name="Такт 24 (Курск)" group-title="ΡΩΣΙΑ - ΚΕΝΤΡΙΚΗ ΠΕΡΙΦΕΡΕΙΑ - RUSSIA - CENTRAL REGION", Такт 24 (Курск)
-http://rt-ct-kursk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_KURSK_TAKT/variant.m3u8
+http://109.248.11.19:8081/web/c24/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Тамыр (Башкортостан)" group-title="ΡΩΣΙΑ - ΚΕΝΤΡΙΚΗ ΠΕΡΙΦΕΡΕΙΑ - RUSSIA - CENTRAL REGION", Тамыр (Башкортостан)
 https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8
@@ -243,16 +231,16 @@ https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8
 http://rt-ct-tver-htlive.cdn.ngenix.net/hls/CH_R01_TVERPROSP/variant.m3u8
 
 #EXTINF:-1 tvg-name="ТКР Рязань" group-title="ΡΩΣΙΑ - ΚΕΝΤΡΙΚΗ ΠΕΡΙΦΕΡΕΙΑ - RUSSIA - CENTRAL REGION", ТКР Рязань
-http://rt-ct-ryaz-htlive.cdn.ngenix.net/hls/CH_R01_OTT_CT_RYAZ_TKP/variant.m3u8
+http://live.tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-name="ТНВ (Татарстан)" group-title="ΡΩΣΙΑ - ΚΕΝΤΡΙΚΗ ΠΕΡΙΦΕΡΕΙΑ - RUSSIA - CENTRAL REGION", ТНВ (Татарстан)
-http://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_TNVT/variant.m3u8
+https://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_TNVT/variant.m3u8
 
 #EXTINF:-1 tvg-name="ТНВ Планета (Татарстан)" group-title="ΡΩΣΙΑ - ΚΕΝΤΡΙΚΗ ΠΕΡΙΦΕΡΕΙΑ - RUSSIA - CENTRAL REGION", ТНВ Планета (Татарстан)
 https://planeta.mediacdn.ru/cdn/tnvplanet/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Тольятти 24 (Самарская область)" group-title="ΡΩΣΙΑ - ΚΕΝΤΡΙΚΗ ΠΕΡΙΦΕΡΕΙΑ - RUSSIA - CENTRAL REGION", Тольятти 24 (Самарская область)
-http://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R01_TOLYTTI24/variant.m3u8
+https://rt-vlg-samara-htlive.cdn.ngenix.net/hls/CH_R01_TOLYTTI24/variant.m3u8
 
 #EXTINF:-1 tvg-name="ТСТ (Черемхово)" group-title="ΡΩΣΙΑ - ΚΕΝΤΡΙΚΗ ΠΕΡΙΦΕΡΕΙΑ - RUSSIA - CENTRAL REGION", ТСТ (Черемхово)
 http://5.183.155.8:88/stream.m3u8
@@ -264,7 +252,7 @@ http://s45177.cdn.ngenix.net/hls/CH_R01_TUGANTEL/variant.m3u8
 http://rt-vlg-ul-htlive.cdn.ngenix.net/hls/CH_R01_ULPRAVDA/variant.m3u8
 
 #EXTINF:-1 tvg-name="Чаваш ЕН (Чувашия)" group-title="ΡΩΣΙΑ - ΚΕΝΤΡΙΚΗ ΠΕΡΙΦΕΡΕΙΑ - RUSSIA - CENTRAL REGION", Чаваш ЕН (Чувашия)
-http://rt-vlg-chr-htlive.cdn.ngenix.net/hls/CH_R01_NATIONALTV/variant.m3u8
+https://rt-vlg-chr-htlive.cdn.ngenix.net/hls/CH_R01_NATIONALTV/variant.m3u8
 
 #EXTINF:-1 tvg-name="Эфир (Татарстан)" group-title="ΡΩΣΙΑ - ΚΕΝΤΡΙΚΗ ΠΕΡΙΦΕΡΕΙΑ - RUSSIA - CENTRAL REGION", Эфир (Татарстан)
 http://rt-vlg-kzn-htlive.cdn.ngenix.net/hls/CH_R01_EFIR/variant.m3u8
@@ -293,7 +281,7 @@ http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R13_OTT_SIB_KRSK_RENTV/variant.m
 http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R02_OTT_SIB_KRSK_8CHANNEL/variant.m3u8
 
 #EXTINF:-1 tvg-name="8 канал (Новосибирск)" tvg-logo="https://i.ibb.co/db4ZYJH/8-kanal-Novosibirsk-200x200.jpg" group-title="ΡΩΣΙΑ - ΣΙΒΗΡΙΑ - RUSSIA - SIBERIA", 8 канал (Новосибирск)
-http://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_8CHANNEL/variant.m3u8
+https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_8CHANNEL/variant.m3u8
 
 #EXTINF:-1 tvg-name="Аист (Иркутск)" group-title="ΡΩΣΙΑ - ΣΙΒΗΡΙΑ - RUSSIA - SIBERIA", Аист (Иркутск)
 http://rt-sib-irk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_IRK_AIST/variant.m3u8
@@ -314,7 +302,7 @@ http://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R02_BURYAAD/variant.m3u8
 http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_KRSK_ENISEY/variant.m3u8
 
 #EXTINF:-1 tvg-name="Катунь 24 (Алтайский край)" group-title="ΡΩΣΙΑ - ΣΙΒΗΡΙΑ - RUSSIA - SIBERIA", Катунь 24 (Алтайский край)
-http://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_BUL_KATUN24/variant.m3u8
+https://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_BUL_KATUN24/variant.m3u8
 
 #EXTINF:-1 tvg-name="Кузбасс Первый (Кемеровская область)" group-title="ΡΩΣΙΑ - ΣΙΒΗΡΙΑ - RUSSIA - SIBERIA", Кузбасс Первый (Кемеровская область)
 http://rt-sib-kem-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_KEM_GTRK/variant.m3u8
@@ -388,19 +376,19 @@ http://s84942.cdn.ngenix.net/hls/CH_R28_OTT_DV_BLAG_AOT/variant.m3u8
 http://s14553.cdn.ngenix.net/hls/CH_R65_OTT_DV_SLIN_ACTV/variant.m3u8
 
 #EXTINF:-1 tvg-name="Восток 24" group-title="ΡΩΣΙΑ - ΑΝΑΤΟΛΙΚΗ ΡΩΣΙΑ - RUSSIA - EASTERN RUSSIA", Восток 24
-https://live.vostok.news/hls/vostok/index.m3u8
+http://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_VOSTOK24_OTT/variant.m3u8
 
 #EXTINF:-1 tvg-name="Восток 24 (Владивосток)" group-title="ΡΩΣΙΑ - ΑΝΑΤΟΛΙΚΗ ΡΩΣΙΑ - RUSSIA - EASTERN RUSSIA", Восток 24 (Владивосток)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/vladivostok/vostok24-hd/index.m3u8
+https://s91030.cdn.ngenix.net/hls/CH_R01_VOSTOK24_OTT/variant.m3u8
 
 #EXTINF:-1 tvg-name="Город 24" group-title="ΡΩΣΙΑ - ΑΝΑΤΟΛΙΚΗ ΡΩΣΙΑ - RUSSIA - EASTERN RUSSIA", Город 24
 http://s84942.cdn.ngenix.net/hls/CH_R28_OTT_DV_BLAG_GOROD24/variant.m3u8
 
 #EXTINF:-1 tvg-name="Губерния (Хабаровск)" group-title="ΡΩΣΙΑ - ΑΝΑΤΟΛΙΚΗ ΡΩΣΙΑ - RUSSIA - EASTERN RUSSIA", Губерния (Хабаровск)
-http://s97982.cdn.ngenix.net/hls/CH_R27_OTT_DV_HVSK_GUBERNYA/variant.m3u8
+https://s97982.cdn.ngenix.net/hls/CH_R27_OTT_DV_HVSK_GUBERNYA/variant.m3u8
 
 #EXTINF:-1 tvg-name="Губерния Хабаровск" group-title="ΡΩΣΙΑ - ΑΝΑΤΟΛΙΚΗ ΡΩΣΙΑ - RUSSIA - EASTERN RUSSIA", Губерния Хабаровск
-https://live.gubernia.com/hls/index.m3u8
+https://s97982.cdn.ngenix.net/hls/CH_R27_OTT_DV_HVSK_GUBERNYA/variant.m3u8
 
 #EXTINF:-1 tvg-name="Камчатка 1 (Камчатский край)" group-title="ΡΩΣΙΑ - ΑΝΑΤΟΛΙΚΗ ΡΩΣΙΑ - RUSSIA - EASTERN RUSSIA", Камчатка 1 (Камчатский край)
 http://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_KAMCHATKA/variant.m3u8
@@ -415,7 +403,7 @@ https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
 http://s14553.cdn.ngenix.net/hls/CH_R65_OTT_DV_SLIN_OTV_SLIN/variant.m3u8
 
 #EXTINF:-1 tvg-name="ОТВ Приморье" group-title="ΡΩΣΙΑ - ΑΝΑΤΟΛΙΚΗ ΡΩΣΙΑ - RUSSIA - EASTERN RUSSIA", ОТВ Приморье
-https://sc.id-tv.kz/OTV_Primorye_34_35.m3u8
+https://jz2lo90hnpy.a.trbcdn.net/livemaster/yo8gr_live-5gorrrfpouq.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Телемикс (Уссурийск)" group-title="ΡΩΣΙΑ - ΑΝΑΤΟΛΙΚΗ ΡΩΣΙΑ - RUSSIA - EASTERN RUSSIA", Телемикс (Уссурийск)
 http://s91030.cdn.ngenix.net/hls/CH_R25_TMX/variant.m3u8
@@ -426,31 +414,22 @@ http://s34351.cdn.ngenix.net/hls/CH_R14_OTT_DV_YKT_YKT/variant.m3u8
 #EXTGRP:ΡΩΣΙΑ - ΝΟΤΙΑ ΡΩΣΙΑ - RUSSIA - SOUTHERN RUSSIA
 
 #EXTINF:-1 tvg-name="Астрахань 24" group-title="ΡΩΣΙΑ - ΝΟΤΙΑ ΡΩΣΙΑ - RUSSIA - SOUTHERN RUSSIA", Астрахань 24
-https://streaming.astrakhan.ru/astrakhan24/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Волгоград 1" group-title="ΡΩΣΙΑ - ΝΟΤΙΑ ΡΩΣΙΑ - RUSSIA - SOUTHERN RUSSIA", Волгоград 1
-http://rt-sth-vgrad-htlive.cdn.ngenix.net/hls/CH_R06_OTT_STH_VGRAD_VOLGOGRAD1/variant.m3u8
+http://streaming.astrakhan.ru/astrakhan24/tracks-v2a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-name="Волгоград 24" group-title="ΡΩΣΙΑ - ΝΟΤΙΑ ΡΩΣΙΑ - RUSSIA - SOUTHERN RUSSIA", Волгоград 24
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/volgograd24-hd/track_102_1f3a2163/chunklist.m3u8
-
-#EXTINF:-1 tvg-name="Дон 24" group-title="ΡΩΣΙΑ - ΝΟΤΙΑ ΡΩΣΙΑ - RUSSIA - SOUTHERN RUSSIA", Дон 24
-https://sc.id-tv.kz/Don24_34_35.m3u8
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/russia1-hd/index.m3u8
 
 #EXTINF:-1 tvg-name="Дон 24 (Ростов-на-Дону)" tvg-logo="http://radio.online24.ru/uploads/posts/2017-12/1514576502_don24.png" group-title="ΡΩΣΙΑ - ΝΟΤΙΑ ΡΩΣΙΑ - RUSSIA - SOUTHERN RUSSIA", Дон 24 (Ростов-на-Дону)
-http://rt-sth-rd-htlive.cdn.ngenix.net/hls/CH_R02_DON24/variant.m3u8
+https://rt-sth-rd-htlive.cdn.ngenix.net/hls/CH_R02_DON24/variant.m3u8
 
 #EXTINF:-1 tvg-name="За! (Запорожская область)" group-title="ΡΩΣΙΑ - ΝΟΤΙΑ ΡΩΣΙΑ - RUSSIA - SOUTHERN RUSSIA", За! (Запорожская область)
 https://streaming.televizor-24-tochka.ru/live/25.m3u8
-
-#EXTINF:-1 tvg-name="Краснодар" group-title="ΡΩΣΙΑ - ΝΟΤΙΑ ΡΩΣΙΑ - RUSSIA - SOUTHERN RUSSIA", Краснодар
-http://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_KRDAR_KRASNODAR/variant.m3u8
 
 #EXTINF:-1 tvg-name="Крым 24" group-title="ΡΩΣΙΑ - ΝΟΤΙΑ ΡΩΣΙΑ - RUSSIA - SOUTHERN RUSSIA", Крым 24
 https://cdn.1tvcrimea.ru/24tvcrimea.m3u8
 
 #EXTINF:-1 tvg-name="Кубань 24 (Краснодар)" group-title="ΡΩΣΙΑ - ΝΟΤΙΑ ΡΩΣΙΑ - RUSSIA - SOUTHERN RUSSIA", Кубань 24 (Краснодар)
-http://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_OTT_STH_KRDAR_KUBAN24-T/variant.m3u8
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_KUBAN24/variant.m3u8
 
 #EXTINF:-1 tvg-name="Легендарный 24" group-title="ΡΩΣΙΑ - ΝΟΤΙΑ ΡΩΣΙΑ - RUSSIA - SOUTHERN RUSSIA", Легендарный 24
 https://sevas.1tvcrimea.ru/legendarniy24.m3u8
@@ -462,19 +441,19 @@ https://live1.1tvcrimea.ru/milletlive.m3u8
 https://hls-volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-name="НТК (Калмыкия)" group-title="ΡΩΣΙΑ - ΝΟΤΙΑ ΡΩΣΙΑ - RUSSIA - SOUTHERN RUSSIA", НТК (Калмыкия)
-http://rt-sth-elista-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_ELISTA_HAMDAN/variant.m3u8
+https://rt-sth-elista-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_ELISTA_HAMDAN/variant.m3u8
 
 #EXTINF:-1 tvg-name="Первый Крымский" group-title="ΡΩΣΙΑ - ΝΟΤΙΑ ΡΩΣΙΑ - RUSSIA - SOUTHERN RUSSIA", Первый Крымский
 https://live1.1tvcrimea.ru/1tvcrimea.m3u8
 
 #EXTINF:-1 tvg-name="Первый Ростовский (Ростов-на-Дону)" group-title="ΡΩΣΙΑ - ΝΟΤΙΑ ΡΩΣΙΑ - RUSSIA - SOUTHERN RUSSIA", Первый Ростовский (Ростов-на-Дону)
-https://rost.mediacdn.ru/cdn/rostov1/tracks-v2a1/mono.m3u8
+https://rost.mediacdn.ru/cdn/rostov1/index.m3u8
 
 #EXTINF:-1 tvg-name="Продвижение (Астрахань)" group-title="ΡΩΣΙΑ - ΝΟΤΙΑ ΡΩΣΙΑ - RUSSIA - SOUTHERN RUSSIA", Продвижение (Астрахань)
 http://rt-sth-astrh-htlive.cdn.ngenix.net/hls/CH_R03_PRO_ASTRAKHAN/variant.m3u8
 
 #EXTINF:-1 tvg-name="РБК (Краснодар)" tvg-logo="https://hsto.org/getpro/moikrug/uploads/company/372/015/357/logo/medium_9af6ded0767de9d07664e509a3ffbb4a.png" group-title="ΡΩΣΙΑ - ΝΟΤΙΑ ΡΩΣΙΑ - RUSSIA - SOUTHERN RUSSIA", РБК (Краснодар)
-http://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R06_OTT_STH_KRDAR_RBC-KRD/variant.m3u8
+https://online.video.rbc.ru/online/rbctv.m3u8
 
 #EXTINF:-1 tvg-name="Сочи 24 (Краснодар)" group-title="ΡΩΣΙΑ - ΝΟΤΙΑ ΡΩΣΙΑ - RUSSIA - SOUTHERN RUSSIA", Сочи 24 (Краснодар)
 http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
@@ -485,31 +464,19 @@ https://streaming.televizor-24-tochka.ru/live/24.m3u8
 #EXTINF:-1 tvg-name="Телплюс (Астрахань)" group-title="ΡΩΣΙΑ - ΝΟΤΙΑ ΡΩΣΙΑ - RUSSIA - SOUTHERN RUSSIA", Телплюс (Астрахань)
 https://streaming.astrakhan.ru/telplushd/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Телеканал Крым 24" group-title="ΡΩΣΙΑ - ΝΟΤΙΑ ΡΩΣΙΑ - RUSSIA - SOUTHERN RUSSIA", Телеканал Крым 24
-http://cdn.1tvcrimea.ru/24tvcrimea.m3u8
-
 #EXTINF:-1 tvg-name="Ямал (ЯНАО)" group-title="ΡΩΣΙΑ - ΝΟΤΙΑ ΡΩΣΙΑ - RUSSIA - SOUTHERN RUSSIA", Ямал (ЯНАО)
-http://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_YAMREG_URAL_YNF/variant.m3u8
+https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_YAMREG_URAL_YNF/variant.m3u8
 
 #EXTGRP:ΡΩΣΙΑ - ΟΥΡΑΛΙΑ - RUSSIA - URALS
 
 #EXTINF:-1 tvg-name="31 канал (Челябинск)" tvg-logo="https://i115.fastpic.org/big/2021/0801/b1/fedc8a3a26113045a40d22bd2ac5f5b1.png" group-title="ΡΩΣΙΑ - ΟΥΡΑΛΙΑ - RUSSIA - URALS", 31 канал (Челябинск)
 http://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_31TVK_CHEL/variant.m3u8
 
-#EXTINF:-1 tvg-name="4 канал (Свердловская область)" group-title="ΡΩΣΙΑ - ΟΥΡΑΛΙΑ - RUSSIA - URALS", 4 канал (Свердловская область)
-http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_EKB1/hls/1024x576@2024/playlist.m3u8
-
-#EXTINF:-1 tvg-name="4 Kanal Ekb" group-title="ΡΩΣΙΑ - ΟΥΡΑΛΙΑ - RUSSIA - URALS", 4 Kanal Ekb
-https://4kanal-ekb.cdnvideo.ru/4kanal-ekb/4kanal-ekb.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-name="Вектор (Свердловская область)" group-title="ΡΩΣΙΑ - ΟΥΡΑΛΙΑ - RUSSIA - URALS", Вектор (Свердловская область)
 http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R01_OTT_VEKTOR/variant.m3u8
 
-#EXTINF:-1 tvg-name="Вектор 24 (Губкинский)" group-title="ΡΩΣΙΑ - ΟΥΡΑΛΙΑ - RUSSIA - URALS", Вектор 24 (Губкинский)
-http://136723.edgevideo.ru/streams/136723_657205/720n/index.m3u8
-
 #EXTINF:-1 tvg-name="Вестник Надыма (ЯНАО)" group-title="ΡΩΣΙΑ - ΟΥΡΑΛΙΑ - RUSSIA - URALS", Вестник Надыма (ЯНАО)
-https://0werof7ib0p.a.trbcdn.net/livemaster/6r10qa9k6d_trknadym.sdp/playlist.m3u8
+https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_VESTN_URAL_NAD/variant.m3u8
 
 #EXTINF:-1 tvg-name="Инфо 24 (Шадринск)" group-title="ΡΩΣΙΑ - ΟΥΡΑΛΙΑ - RUSSIA - URALS", Инфо 24 (Шадринск)
 https://rt-ural-krg-htlive.cdn.ngenix.net/hls/CH_R04_OTT_SHINFO_URAL_KRG/variant.m3u8
@@ -521,46 +488,28 @@ http://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R02_IMPULS_NBK/variant.m3u8
 http://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_MIG_TV_URAL_YNF/variant.m3u8
 
 #EXTINF:-1 tvg-name="Муравленко 24 (ЯНАО)" group-title="ΡΩΣΙΑ - ΟΥΡΑΛΙΑ - RUSSIA - URALS", Муравленко 24 (ЯНАО)
-http://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_MURAVLENKO_24/variant.m3u8
-
-#EXTINF:-1 tvg-name="Мы и город (Свердловская область)" group-title="ΡΩΣΙΑ - ΟΥΡΑΛΙΑ - RUSSIA - URALS", Мы и город (Свердловская область)
-http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_OTT_MIGOR_URAL_KRASN/variant.m3u8
+https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_MURAVLENKO_24/variant.m3u8
 
 #EXTINF:-1 tvg-name="Наши города (ХМАО-Югра)" group-title="ΡΩΣΙΑ - ΟΥΡΑΛΙΑ - RUSSIA - URALS", Наши города (ХМАО-Югра)
-http://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_NGOR_URAL_SUR/variant.m3u8
-
-#EXTINF:-1 tvg-name="Новое время (Радужный)" group-title="ΡΩΣΙΑ - ΟΥΡΑΛΙΑ - RUSSIA - URALS", Новое время (Радужный)
-http://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_RADUZNYI/variant.m3u8
-
-#EXTINF:-1 tvg-name="НТС Ирбит (Екатеринбург)" group-title="ΡΩΣΙΑ - ΟΥΡΑΛΙΑ - RUSSIA - URALS", НТС Ирбит (Екатеринбург)
-https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_IRBITVEST_EKT/variant.m3u8
-
-#EXTINF:-1 tvg-name="Область 45 (Курган)" group-title="ΡΩΣΙΑ - ΟΥΡΑΛΙΑ - RUSSIA - URALS", Область 45 (Курган)
-http://rt-ural-krg-htlive.cdn.ngenix.net/hls/CH_R04_OTT_OBLAST45/variant.m3u8
+https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_NGOR_URAL_SUR/variant.m3u8
 
 #EXTINF:-1 tvg-name="ОТВ (Свердловская область)" group-title="ΡΩΣΙΑ - ΟΥΡΑΛΙΑ - RUSSIA - URALS", ОТВ (Свердловская область)
-http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_URAL_EKT/variant.m3u8
+https://vd.obltv.ru/watch/air_hd.m3u8
 
 #EXTINF:-1 tvg-name="OTV Chelyabinsk" group-title="ΡΩΣΙΑ - ΟΥΡΑΛΙΑ - RUSSIA - URALS", OTV Chelyabinsk
-https://sc.id-tv.kz/OTV_CHB_34_35.m3u8
+https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_CHEL/variant.m3u8
 
 #EXTINF:-1 tvg-name="ПТВ (Первоуральск)" group-title="ΡΩΣΙΑ - ΟΥΡΑΛΙΑ - RUSSIA - URALS", ПТВ (Первоуральск)
 https://bl.rutube.ru/livestream/59e0373a9aa587e06aeaf9009f86ded1/index.m3u8?s=RqQza13Ro4UeKu7IwmQbHA&e=2070623502&scheme=https
 
-#EXTINF:-1 tvg-name="РИМ (Каменск-Уральский)" group-title="ΡΩΣΙΑ - ΟΥΡΑΛΙΑ - RUSSIA - URALS", РИМ (Каменск-Уральский)
-http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_OTT_RIM_URAL_KURAL/variant.m3u8
-
 #EXTINF:-1 tvg-name="Рифей (Пермь)" group-title="ΡΩΣΙΑ - ΟΥΡΑΛΙΑ - RUSSIA - URALS", Рифей (Пермь)
-http://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R02_OTT_RENTV_REFEY_PERM/variant.m3u8
+https://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R02_OTT_RENTV_REFEY_PERM/variant.m3u8
 
 #EXTINF:-1 tvg-name="С1 (Сургут)" group-title="ΡΩΣΙΑ - ΟΥΡΑΛΙΑ - RUSSIA - URALS", С1 (Сургут)
-https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_C1_URAL_SUR/variant.m3u8
+https://sitv.ru/hls/stv.m3u8
 
 #EXTINF:-1 tvg-name="Самотлор (Нижневартовск)" group-title="ΡΩΣΙΑ - ΟΥΡΑΛΙΑ - RUSSIA - URALS", Самотлор (Нижневартовск)
 http://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_SAMOTLOR/variant.m3u8
-
-#EXTINF:-1 tvg-name="Свое (Березники)" group-title="ΡΩΣΙΑ - ΟΥΡΑΛΙΑ - RUSSIA - URALS", Свое (Березники)
-http://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SVOETV/variant.m3u8
 
 #EXTINF:-1 tvg-name="С86 (Сургут)" group-title="ΡΩΣΙΑ - ΟΥΡΑΛΙΑ - RUSSIA - URALS", С86 (Сургут)
 http://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TELEKANAL86/variant.m3u8
@@ -584,13 +533,13 @@ http://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TNR24/variant.m3u8
 http://rt-ural-tum-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TOBOLSKOEVREMYA/variant.m3u8
 
 #EXTINF:-1 tvg-name="Тюменское время" group-title="ΡΩΣΙΑ - ΟΥΡΑΛΙΑ - RUSSIA - URALS", Тюменское время
-https://tyumen-time.cdnvideo.ru/tyumen-time/tyumen-time.sdp/playlist.m3u8
+https://hls-sibinformburo.cdnvideo.ru/sibinformburo-srt/sibinformburo001/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-name="Тюменское время (Тюмень)" group-title="ΡΩΣΙΑ - ΟΥΡΑΛΙΑ - RUSSIA - URALS", Тюменское время (Тюмень)
 http://rt-ural-tum-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TUMVR_URAL_TUM/variant.m3u8
 
 #EXTINF:-1 tvg-name="Урал 24" group-title="ΡΩΣΙΑ - ΟΥΡΑΛΙΑ - RUSSIA - URALS", Урал 24
-http://vgtrkregion-reg.cdnvideo.ru/vgtrk/chelyabinsk/ural24-hd/index.m3u8
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/chelyabinsk/ural24-hd/index.m3u8
 
 #EXTINF:-1 tvg-name="УРАЛ1 (Челябинск)" group-title="ΡΩΣΙΑ - ΟΥΡΑΛΙΑ - RUSSIA - URALS", УРАЛ1 (Челябинск)
 http://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_URAL1/variant.m3u8
@@ -615,17 +564,14 @@ http://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_ARKTIKA24_URAL_YNF/varia
 #EXTINF:-1 tvg-name="Арктик (Мурманск)" group-title="ΡΩΣΙΑ - ΒΟΡΕΙΑ ΡΩΣΙΑ - RUSSIA - NORTHERN RUSSIA", Арктик (Мурманск)
 http://rt-nw-murm-htlive.cdn.ngenix.net/hls/CH_R03_ARCTIC/variant.m3u8
 
-#EXTINF:-1 tvg-name="Арктика 24 (Архангельск)" group-title="ΡΩΣΙΑ - ΒΟΡΕΙΑ ΡΩΣΙΑ - RUSSIA - NORTHERN RUSSIA", Арктика 24 (Архангельск)
-http://vgtrkregion-reg.cdnvideo.ru/vgtrk/arhangelsk/arktika24-hd/index.m3u8
-
 #EXTINF:-1 tvg-name="Новгородское областное телевидение (Новгородская область)" group-title="ΡΩΣΙΑ - ΒΟΡΕΙΑ ΡΩΣΙΑ - RUSSIA - NORTHERN RUSSIA", Новгородское областное телевидение (Новгородская область)
 http://rt-nw-novg-htlive.cdn.ngenix.net/hls/CH_R02_NOVGORODTV/variant.m3u8
 
 #EXTINF:-1 tvg-name="Регион 29 (Архангельск)" tvg-logo="https://cdn0.region29.ru/i/logo-256x256-invert.png" group-title="ΡΩΣΙΑ - ΒΟΡΕΙΑ ΡΩΣΙΑ - RUSSIA - NORTHERN RUSSIA", Регион 29 (Архангельск)
-http://rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R02_PRAVDASEVERA/variant.m3u8
+https://rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R02_PRAVDASEVERA/variant.m3u8
 
 #EXTINF:-1 tvg-name="Русский Север (Вологодская область)" group-title="ΡΩΣΙΑ - ΒΟΡΕΙΑ ΡΩΣΙΑ - RUSSIA - NORTHERN RUSSIA", Русский Север (Вологодская область)
-http://rt-nw-vol-htlive.cdn.ngenix.net/hls/CH_R01_TV7/variant.m3u8
+https://rt-nw-vol-htlive.cdn.ngenix.net/hls/CH_R01_TV7/variant.m3u8
 
 #EXTINF:-1 tvg-name="Сампо (Петрозаводск)" group-title="ΡΩΣΙΑ - ΒΟΡΕΙΑ ΡΩΣΙΑ - RUSSIA - NORTHERN RUSSIA", Сампо (Петрозаводск)
 http://rt-nw-pzav-htlive.cdn.ngenix.net/hls/CH_R01_SAMPOTV/variant.m3u8
@@ -644,17 +590,11 @@ http://rt-nw-komi-htlive.cdn.ngenix.net/hls/CH_R01_YURGAN/variant.m3u8
 #EXTINF:-1 tvg-name="1 КБР (Нальчик)" group-title="ΡΩΣΙΑ - ΚΑΥΚΑΣΟΣ - RUSSIA - CAUCASUS", 1 КБР (Нальчик)
 http://rt-sth-nalch-htlive.cdn.ngenix.net/hls/CH_R01_OTT_STH_NALCH_KBR/variant.m3u8
 
-#EXTINF:-1 tvg-name="Архыз 24" group-title="ΡΩΣΙΑ - ΚΑΥΚΑΣΟΣ - RUSSIA - CAUCASUS", Архыз 24
-https://arhiz24.cdnvideo.ru/arhiz24/arhiz24.sdp/playlist.m3u8
-
 #EXTINF:-1 tvg-name="Архыз 24 (Карачаево-Черкесия)" group-title="ΡΩΣΙΑ - ΚΑΥΚΑΣΟΣ - RUSSIA - CAUCASUS", Архыз 24 (Карачаево-Черкесия)
 https://live.mediacdn.ru/sr1/arhis24/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Архыз 24 Light (Карачаево-Черкесия)" group-title="ΡΩΣΙΑ - ΚΑΥΚΑΣΟΣ - RUSSIA - CAUCASUS", Архыз 24 Light (Карачаево-Черкесия)
-http://rt-sth-cherks-htlive.cdn.ngenix.net/hls/CH_R03_OTT_STH_CHERKS_ARKHIZ24LITE/variant.m3u8
-
-#EXTINF:-1 tvg-name="АТВ (Ставрополь)" group-title="ΡΩΣΙΑ - ΚΑΥΚΑΣΟΣ - RUSSIA - CAUCASUS", АТВ (Ставрополь)
-http://rt-sth-stavr-htlive.cdn.ngenix.net/hls/CH_R01_ATV/variant.m3u8
+https://live.mediacdn.ru/sr1/arhis24/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Грозный" group-title="ΡΩΣΙΑ - ΚΑΥΚΑΣΟΣ - RUSSIA - CAUCASUS", Грозный
 https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/2/1.m3u8
@@ -666,7 +606,7 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/stavropol/kavkaz24-hd/index.m3u8
 https://ingushetia.mediacdn.ru/cdn/ingushetia/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Осетия Ирыстон" group-title="ΡΩΣΙΑ - ΚΑΥΚΑΣΟΣ - RUSSIA - CAUCASUS", Осетия Ирыстон
-https://osetia.cdnvideo.ru/osetia/osetia.sdp/playlist.m3u8
+http://catchup.videoline.ru/iriston/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name="Осетия Ирыстон (Владикавказ)" group-title="ΡΩΣΙΑ - ΚΑΥΚΑΣΟΣ - RUSSIA - CAUCASUS", Осетия Ирыстон (Владикавказ)
 https://osir.mediacdn.ru/cdn/osetia/playlist.m3u8
@@ -682,12 +622,6 @@ https://edge55.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1.smil/chunklist_w_b
 #EXTINF:-1 tvg-name="Беларусь 24" group-title="ΡΩΣΙΑ - ΔΙΕΘΝΗ (RU) - RUSSIA - INTERNATIONAL (RU)", Беларусь 24
 https://edge50.dc.beltelecom.by/ngtrk/smil:belarus24.smil/chunklist_b5160000_sleng.m3u8
 
-#EXTINF:-1 tvg-name="БелРос" group-title="ΡΩΣΙΑ - ΔΙΕΘΝΗ (RU) - RUSSIA - INTERNATIONAL (RU)", БелРос
-http://live2.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
-
-#EXTINF:-1 tvg-name="КТК (Казахстан)" group-title="ΡΩΣΙΑ - ΔΙΕΘΝΗ (RU) - RUSSIA - INTERNATIONAL (RU)", КТК (Казахстан)
-https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-name="МТРК (Казахстан)" group-title="ΡΩΣΙΑ - ΔΙΕΘΝΗ (RU) - RUSSIA - INTERNATIONAL (RU)", МТРК (Казахстан)
 https://tvcdn01.oktv.kz/tv/mtrk/playlist.m3u8
 
@@ -697,20 +631,17 @@ http://212.42.117.34:8080/hls/OshTV.m3u8
 #EXTINF:-1 tvg-name="Первый информационный (Беларусь)" group-title="ΡΩΣΙΑ - ΔΙΕΘΝΗ (RU) - RUSSIA - INTERNATIONAL (RU)", Первый информационный (Беларусь)
 https://edge50.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/chunklist_b5160000_sleng.m3u8
 
-#EXTINF:-1 tvg-name="Планета РТР (Planeta RTR)" group-title="ΡΩΣΙΑ - ΔΙΕΘΝΗ (RU) - RUSSIA - INTERNATIONAL (RU)", Планета РТР (Planeta RTR)
-http://player.smotrim.ru/iframe/stream/live_id/d7fef212-df66-485d-9952-7eab82d7d51b.m3u8
-
 #EXTINF:-1 tvg-name="РЕН ТВ International" tvg-logo="https://naggdd.github.io/iptv/logos/ren_tv.png" group-title="ΡΩΣΙΑ - ΔΙΕΘΝΗ (RU) - RUSSIA - INTERNATIONAL (RU)", РЕН ТВ International
-http://cdn4.skygo.mn/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8
+http://178.134.1.158:8081/RENTV/index.m3u8
 
 #EXTINF:-1 tvg-name="СТС International" tvg-logo="https://naggdd.github.io/iptv/logos/sts.png" group-title="ΡΩΣΙΑ - ΔΙΕΘΝΗ (RU) - RUSSIA - INTERNATIONAL (RU)", СТС International
-https://cdn4.skygo.mn/live/disk1/STS/HLSv3-FTA/STS.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
 
 #EXTINF:-1 tvg-name="ТДК 42 (Казахстан)" group-title="ΡΩΣΙΑ - ΔΙΕΘΝΗ (RU) - RUSSIA - INTERNATIONAL (RU)", ТДК 42 (Казахстан)
 https://live-tdk42kz.cdnvideo.ru/tdk42kz/tdk42kz_720.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="ТНТ4 International" tvg-logo="https://naggdd.github.io/iptv/logos/tnt4.png" group-title="ΡΩΣΙΑ - ΔΙΕΘΝΗ (RU) - RUSSIA - INTERNATIONAL (RU)", ТНТ4 International
-https://cdn4.skygo.mn/live/disk1/TNT4/HLSv3-FTA/TNT4.m3u8
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
 
 #EXTINF:-1 tvg-name="ТСВ (Приднестровье)" group-title="ΡΩΣΙΑ - ΔΙΕΘΝΗ (RU) - RUSSIA - INTERNATIONAL (RU)", ТСВ (Приднестровье)
 https://tsv.md/stream/hls/tsv-online/index.m3u8

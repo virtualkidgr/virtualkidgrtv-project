@@ -57,9 +57,6 @@ https://cdn5.smart-tv-data.com/ena/ena_channel/playlist.m3u8
 #EXTINF:-1 tvg-name="Alert TV" tvg-logo="" group-title="ΚΑΝΑΛΙΑ ΑΤΤΙΚΗΣ - ATTICA CHANNELS", Alert TV
 https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Attica TV" tvg-logo="https://i.imgur.com/VttzGrP.png" group-title="ΚΑΝΑΛΙΑ ΑΤΤΙΚΗΣ - ATTICA CHANNELS", Attica TV
-http://atticatv.siliconweb.com/atticatv/atticaliveabr/playlist.m3u8
-
 #EXTINF:-1 tvg-name="One Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/One_Channel_Logo_2019.png" group-title="ΚΑΝΑΛΙΑ ΑΤΤΙΚΗΣ - ATTICA CHANNELS", One Channel (πρώην Channel 9)
 https://onechannel.siliconweb.com/one/stream/chunks.m3u8
 
@@ -81,7 +78,7 @@ https://gwebstream.net/hls/master.m3u8
 https://video.streams.ovh:1936/pellatv/pellatv/master.m3u8
 
 #EXTINF:-1 tvg-name="Xalastra TV" tvg-logo="https://i.imgur.com/LgQBtTh.jpg" group-title="ΚΑΝΑΛΙΑ ΘΕΣΣΑΛΟΝΙΚΗΣ – ΚΕΝΤΡΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ - THESSALONIKI & CENTRAL MACEDONIA CHANNELS", Xalastra TV
-https://live.cast-control.eu/xalastratv/xalastratv/playlist.m3u8
+https://channel.streams.ovh:8081/xalastratv/playlist.m3u8
 
 #EXTGRP:ΚΑΝΑΛΙΑ ΑΝΑΤΟΛΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ & ΘΡΑΚΗΣ - EASTERN MACEDONIA & THRACE CHANNELS
 
@@ -92,7 +89,7 @@ https://av.hellasnet.tv/rst/alf/main_stream.m3u8
 https://cdn5.smart-tv-data.com/ena/ena_channel/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Thraki NET" tvg-logo="https://i.imgur.com/zkTohBm.png" group-title="ΚΑΝΑΛΙΑ ΑΝΑΤΟΛΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ & ΘΡΑΚΗΣ - EASTERN MACEDONIA & THRACE CHANNELS", Thraki NET
-https://cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8
+http://hls.onestreaming.com:1935/live/thrakinettv/master.m3u8
 
 #EXTINF:-1 tvg-name="Εγνατία Τηλεόραση" tvg-logo="https://i.imgur.com/zuyYIca.png" group-title="ΚΑΝΑΛΙΑ ΑΝΑΤΟΛΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ & ΘΡΑΚΗΣ - EASTERN MACEDONIA & THRACE CHANNELS", Εγνατία Τηλεόραση
 https://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u8
@@ -113,16 +110,13 @@ https://stream.ioniantv.gr/ionian/live_abr/playlist.m3u8
 #EXTINF:-1 tvg-name="Best TV" tvg-logo="https://i.imgur.com/FRDzxjD.png" group-title="ΚΑΝΑΛΙΑ ΠΕΛΟΠΟΝΝΗΣΟΥ - PELOPONNESE CHANNELS", Best TV
 http://push-int.siliconweb.com/bestTV/stream/playlist.m3u8
 
-#EXTINF:-1 tvg-name="PLP" tvg-logo="https://i.imgur.com/qa3Lurc.png" group-title="ΚΑΝΑΛΙΑ ΠΕΛΟΠΟΝΝΗΣΟΥ - PELOPONNESE CHANNELS", PLP
-https://www.hellasnet.tv/rest.live.hn/ws.plp/playlist.m3u8
-
 #EXTGRP:ΚΑΝΑΛΙΑ ΔΩΔΕΚΑΝΗΣΩΝ & ΣΑΜΟΥ - DODECANESE & SAMOS CHANNELS
 
 #EXTINF:-1 tvg-name="Aigaio TV" tvg-logo="https://i.imgur.com/7LfuDJi.png" group-title="ΚΑΝΑΛΙΑ ΔΩΔΕΚΑΝΗΣΩΝ & ΣΑΜΟΥ - DODECANESE & SAMOS CHANNELS", Aigaio TV
 https://fr.crystalweb.net:1936/aigaiotv/aigaiotv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Irida TV" tvg-logo="https://i.imgur.com/gn5sdCt.png" group-title="ΚΑΝΑΛΙΑ ΔΩΔΕΚΑΝΗΣΩΝ & ΣΑΜΟΥ - DODECANESE & SAMOS CHANNELS", Irida TV
-https://www.hellasnet.tv/rest.live.hn/ws.iri/playlist.m3u8
+https://www.hellasnet.tv/rest2.live.hn/w2r.iri/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Samiaki TV" tvg-logo="https://i.imgur.com/9Pf1we6.png" group-title="ΚΑΝΑΛΙΑ ΔΩΔΕΚΑΝΗΣΩΝ & ΣΑΜΟΥ - DODECANESE & SAMOS CHANNELS", Samiaki TV
 http://live.cast-control.eu:1935/samiaki/samiaki/playlist.m3u8
