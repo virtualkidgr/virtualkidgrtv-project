@@ -1,0 +1,4 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="ChannelOne.ru@HD" tvg-name="Первый канал HD (Москва) — TEST" tvg-logo="https://iptvx.one/picons/pervy.png" group-title="TEST", Первый канал HD (Москва) — TEST
+https://stream8.cinerama.uz/1214/tracks-v1a1/mono.m3u8
