@@ -3,19 +3,19 @@
 #EXTGRP:ΒΑΣΙΚΑ ΚΑΝΑΛΙΑ - BASIC CHANNELS
 
 #EXTINF:-1 tvg-id="ChannelOne.ru@SD" tvg-name="Первый канал" tvg-logo="https://iptvx.one/picons/pervy.png" group-title="ΒΑΣΙΚΑ ΚΑΝΑΛΙΑ - BASIC CHANNELS", Первый канал
-http://31.148.5.241/kanal_1/index.m3u8
+http://31.148.5.241/kanal_1/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="Russia1.ru@SD" tvg-name="Россия 1" tvg-logo="https://iptvx.one/picons/rossia1.png" group-title="ΒΑΣΙΚΑ ΚΑΝΑΛΙΑ - BASIC CHANNELS", Россия 1
-http://31.148.5.241/kanal_2/index.m3u8
+http://31.148.5.241/kanal_2/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="NTV.ru@SD" tvg-name="НТВ" tvg-logo="https://iptvx.one/picons/ntv.png" group-title="ΒΑΣΙΚΑ ΚΑΝΑΛΙΑ - BASIC CHANNELS", НТВ
-http://31.148.5.241/kanal_4/index.m3u8
+http://31.148.5.241/kanal_4/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="STS.ru@SD" tvg-name="СТС" tvg-logo="https://naggdd.github.io/iptv/logos/sts.png" group-title="ΒΑΣΙΚΑ ΚΑΝΑΛΙΑ - BASIC CHANNELS", СТС
-http://31.148.5.241/kanal_13/index.m3u8
+http://31.148.5.241/kanal_13/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="Zvezda.ru@SD" tvg-name="Звезда" tvg-logo="https://iptvx.one/picons/zvezda.png" group-title="ΒΑΣΙΚΑ ΚΑΝΑΛΙΑ - BASIC CHANNELS", Звезда
-http://31.148.5.241/kanal_17/index.m3u8
+http://31.148.5.241/kanal_17/tracks-v1a1/mono.ts.m3u8
 
 #EXTGRP:ΡΩΣΙΑ - ΜΟΣΧΑ - RUSSIA - MOSCOW
 
