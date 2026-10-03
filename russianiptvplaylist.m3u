@@ -2,8 +2,8 @@
 
 #EXTGRP:ΒΑΣΙΚΑ ΚΑΝΑΛΙΑ - BASIC CHANNELS
 
-#EXTINF:-1 tvg-id="ChannelOne.ru@SD" tvg-name="Первый канал" tvg-logo="https://iptvx.one/picons/pervy.png" group-title="ΒΑΣΙΚΑ ΚΑΝΑΛΙΑ - BASIC CHANNELS", Первый канал
-http://31.148.5.241/kanal_1/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="ChannelOne.ru@HD" tvg-name="Первый канал HD (Москва)" tvg-logo="https://iptvx.one/picons/pervy.png" group-title="ΒΑΣΙΚΑ ΚΑΝΑΛΙΑ - BASIC CHANNELS", Первый канал HD (Москва)
+https://stream8.cinerama.uz/1214/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Russia1.ru@SD" tvg-name="Россия 1" tvg-logo="https://iptvx.one/picons/rossia1.png" group-title="ΒΑΣΙΚΑ ΚΑΝΑΛΙΑ - BASIC CHANNELS", Россия 1
 http://31.148.5.241/kanal_2/tracks-v1a1/mono.ts.m3u8
@@ -645,8 +645,3 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
 
 #EXTINF:-1 tvg-name="ТСВ (Приднестровье)" group-title="ΡΩΣΙΑ - ΔΙΕΘΝΗ (RU) - RUSSIA - INTERNATIONAL (RU)", ТСВ (Приднестровье)
 https://tsv.md/stream/hls/tsv-online/index.m3u8
-
-#EXTGRP:OTHERS
-
-#EXTINF:-1 tvg-id="ChannelOne.ru@SD" tvg-name="Первый канал (другая временная зона)" tvg-logo="https://iptvx.one/picons/pervy.png" group-title="OTHERS", Первый канал (другая временная зона)
-http://178.217.49.7/1/index.m3u8
