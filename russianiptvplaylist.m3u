@@ -3,12 +3,13 @@
 # GitHub sources only (audited 2026-10-03)
 # SOURCE: https://github.com/iptv-org/iptv/blob/master/streams/ru.m3u
 # SOURCE: https://github.com/naggdd/iptv
+# SOURCE: https://github.com/LsMacox/iptv/blob/main/playlist-working.m3u
 
 #EXTGRP:ΒΑΣΙΚΑ ΚΑΝΑΛΙΑ - BASIC CHANNELS
 
-# SOURCE: https://github.com/iptv-org/iptv/blob/master/streams/ru.m3u
+# SOURCE: https://github.com/LsMacox/iptv/blob/main/playlist-working.m3u
 #EXTINF:-1 tvg-id="ChannelOne.ru@SD" tvg-name="Первый канал (Москва)" tvg-logo="https://raw.githubusercontent.com/naggdd/iptv/master/logos/perviy.png" group-title="ΒΑΣΙΚΑ ΚΑΝΑΛΙΑ - BASIC CHANNELS", Первый канал (Москва)
-http://45.153.24.78/1TV/index.m3u8
+http://31.148.48.15/Pervii_kanal_HD/index.m3u8
 
 # SOURCE: https://github.com/iptv-org/iptv/blob/master/streams/ru.m3u
 #EXTINF:-1 tvg-id="Russia1.ru@SD" tvg-name="Россия 1" tvg-logo="https://raw.githubusercontent.com/naggdd/iptv/master/logos/rossiya_1.png" group-title="ΒΑΣΙΚΑ ΚΑΝΑΛΙΑ - BASIC CHANNELS", Россия 1
